@@ -24,7 +24,7 @@
 #include <pthread.h>
 #include <errno.h>
 #include <unistd.h>
-
+#include <utils/Log.h>
 #include <cutils/native_handle.h>
 
 #include <linux/fb.h>
